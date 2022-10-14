@@ -1,5 +1,5 @@
 {$head}
-	<body oncontextmenu="return false" onmousedown="event.which == 3">
+
 		<script type="text/javascript">
 			/* Extra CSS */
 			$('head').append (
